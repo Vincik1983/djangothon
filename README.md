@@ -1,0 +1,2 @@
+# djangothon
+Learning Django/Python
